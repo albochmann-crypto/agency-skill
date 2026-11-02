@@ -13,7 +13,7 @@ Everything is stored in `.agency/` in the folder where you run it.
 ## Install
 
 ```
-/plugin marketplace add <github-user>/agency-skill
+/plugin marketplace add albochmann-crypto/agency-skill
 /plugin install agency-skill@agency-skill
 ```
 
