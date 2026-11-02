@@ -1,0 +1,19 @@
+{
+  "name": "agency-skill",
+  "owner": {
+    "name": "Alex Bochmann"
+  },
+  "metadata": {
+    "description": "Marketplace for the agency-skill Claude Code plugin."
+  },
+  "plugins": [
+    {
+      "name": "agency-skill",
+      "source": "./",
+      "description": "An AI automation agency inside Claude Code: outbound, sales, workflow builds, support and a night shift.",
+      "version": "1.0.0",
+      "license": "MIT",
+      "category": "productivity"
+    }
+  ]
+}

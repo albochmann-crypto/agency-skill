@@ -1,0 +1,12 @@
+{
+  "name": "agency-skill",
+  "version": "1.0.0",
+  "description": "An AI automation agency inside Claude Code: outbound cold emails, sales call prep and live coaching, proposals and automation builds, client support replies, and a night shift that works the queue.",
+  "author": {
+    "name": "Alex Chen",
+    "url": "https://chen.media"
+  },
+  "homepage": "https://chen.media",
+  "license": "MIT",
+  "keywords": ["agency", "outreach", "sales", "automation", "proposals", "customer-service"]
+}
